@@ -1,3 +1,8 @@
+# Protect API keys
+.env
+.env.local
+.env.*.local
+
 # Logs
 logs
 *.log
